@@ -1,0 +1,15 @@
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.deps.json
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.runtimeconfig.json
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.runtimeconfig.dev.json
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.dll
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/bin/Debug/net5.0/ref/donguler-while-foreach.dll
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/bin/Debug/net5.0/donguler-while-foreach.pdb
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.csproj.AssemblyReference.cache
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.AssemblyInfoInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.AssemblyInfo.cs
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.csproj.CoreCompileInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.dll
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/obj/Debug/net5.0/ref/donguler-while-foreach.dll
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.pdb
+/Users/ecekokyar/Desktop/Pratikler/donguler-while-foreach/obj/Debug/net5.0/donguler-while-foreach.genruntimeconfig.cache
